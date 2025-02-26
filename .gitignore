@@ -1,0 +1,10 @@
+# Ignore implementation files
+portfolio_manager.py
+credentials.json
+token.pickle
+*.db
+
+# Keep only showcase materials
+!README.md
+!docs/
+!code_samples/venv/
